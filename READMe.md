@@ -7,7 +7,7 @@ In 2021, I decided to start learning front-end development.
 The ability to create, enhance, and enjoy the final results is highly satisfying and keeps me motivated to constantly improve. 
 I am a highly ambitious individual who takes pleasure in the opportunity for continuous growth.
 
-* 🔭 Here you can find my [CV](https://drive.google.com/file/d/1KbbBj4_0uEu9zf6vP5unJ-OtT5maMJzh/view)
+* 🔭 Here you can find my [CV](https://drive.google.com/file/d/1g0MiZVOCwV2La_YDldeCpB7rAWhcd_jg/view?usp=sharing)
 * ✉️ You can contact me at [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
 
 
