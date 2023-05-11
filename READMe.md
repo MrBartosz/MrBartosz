@@ -9,6 +9,7 @@ I am a highly ambitious individual who takes pleasure in the opportunity for con
 
 * 🔭 Here you can find my [CV](https://drive.google.com/file/d/1KbbBj4_0uEu9zf6vP5unJ-OtT5maMJzh/view)
 * ✉️  You can contact me at [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
+* ⌛ I have been an active GitHub user since April 2023
 
 ### Abilities
 
