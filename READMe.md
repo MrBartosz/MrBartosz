@@ -10,6 +10,9 @@ I am a highly ambitious individual who takes pleasure in the opportunity for con
 * 🔭 Here you can find my [CV](https://drive.google.com/file/d/1KbbBj4_0uEu9zf6vP5unJ-OtT5maMJzh/view)
 * ✉️ You can contact me at [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Views&color=2b3236&style=flat" alt="mrbartosz" /> </p>
+
 ### Abilities
 
 
@@ -27,3 +30,4 @@ I am a highly ambitious individual who takes pleasure in the opportunity for con
   <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" width="36" height="36" alt="GitHub" />
 </a>
 </p>
+
