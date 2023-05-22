@@ -8,7 +8,7 @@ The ability to create, enhance, and enjoy the final results is highly satisfying
 I am a highly ambitious individual who takes pleasure in the opportunity for continuous growth.
 
 * 🌐 Checkout my [Website](https://bartoszmaksimowski.netlify.app/)
-* 🔭 Here you can find my [CV](https://drive.google.com/file/d/1dfhZj1-vI00VgeK8V7HTf7QGxhbTd2Yx/view)
+* 🔭 Here you can find my [CV](https://drive.google.com/file/d/1U59HZrFT2GVNvbdORP2N_QeKPkmCadsB/view)
 * ✉️ You can contact me at [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
 
 
