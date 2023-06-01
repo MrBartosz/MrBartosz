@@ -1,11 +1,7 @@
-Hi ! I'm Bartek <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='36' alt="GIF" />
-===============================================================================================================================
 
+<h1 align="center">Hi ! I'm Bartek <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='36' alt="GIF" /></h1> 
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/gG6OcTSRWaSis/giphy.gif?cid=ecf05e47h26msqg7fhinbpf9edhd7lxu8w9jk0r0lu9rwxs4&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-
-In 2021, I decided to start learning front-end development. 
-The ability to create, enhance, and enjoy the final results is highly satisfying and keeps me motivated to constantly improve. 
-I am a highly ambitious individual who takes pleasure in the opportunity for continuous growth.
 
 * 🌐 Checkout my [Website](https://bartoszmaksimowski.netlify.app/)
 * 🔭 Here you can find my [CV](https://drive.google.com/file/d/1zJWv8g5ZhpFjbFAnAZ6s3bx4d_kYKd14/view)
@@ -14,7 +10,7 @@ I am a highly ambitious individual who takes pleasure in the opportunity for con
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Views&color=2b3236&style=flat" alt="mrbartosz" /> </p>
 
-### Abilities
+### Languages and Tools:
 
 
 <p align="left">
