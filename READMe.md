@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi ! I'm Bartek <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='36' alt="GIF" /></h1> 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/gG6OcTSRWaSis/giphy.gif?cid=ecf05e47h26msqg7fhinbpf9edhd7lxu8w9jk0r0lu9rwxs4&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
 * 🌐 Checkout my [Website](https://bartoszmaksimowski.netlify.app/)
@@ -8,9 +7,8 @@
 * ✉️ You can contact me at [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Views&color=2b3236&style=flat" alt="mrbartosz" /> </p>
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 
 
 <p align="left">
@@ -28,3 +26,5 @@
   </a>
 </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Views&color=2b3236&style=flat" alt="mrbartosz" /> </p>
