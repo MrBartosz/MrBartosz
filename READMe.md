@@ -26,5 +26,22 @@
   </a>
 </p>
 
+### 📖 Currently Learning:
+<p align="left">
+  <a>
+    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/redux-icon.svg" width="36" height="36" alt="Redux" />
+  </a>
+</p>
 
+### 📝 Future Actions:
+
+<p align="left">
+  <a>
+    <img src="https://i.ibb.co/TLp4tVg/file-type-angular-954x1024.png" width="36" height="36" alt="Angular" />
+  </a>
+  <a>
+    <img src="https://i.ibb.co/QPRW2VT/pngaaa-com-4144180.png" width="36" height="36" alt="RxJs" />
+  </a>
+  
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Views&color=2b3236&style=flat" alt="mrbartosz" /> </p>
