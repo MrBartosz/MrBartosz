@@ -17,6 +17,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+   <a>
+    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/redux-icon.svg" width="36" height="36" alt="Redux" />
+  </a>
 </p>
 <p align="left">
    <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer">
@@ -31,19 +34,16 @@
 ### 📖 Currently Learning:
 <p align="left">
   <a>
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/redux-icon.svg" width="36" height="36" alt="Redux" />
+    <img src="https://i.ibb.co/TLp4tVg/file-type-angular-954x1024.png" width="36" height="36" alt="Angular" />
+  </a>
+  <a>
+    <img src="https://i.ibb.co/QPRW2VT/pngaaa-com-4144180.png" width="36" height="36" alt="RxJs" />
   </a>
 </p>
 
 ### 📝 Future Actions:
 
 <p align="left">
-  <a>
-    <img src="https://i.ibb.co/TLp4tVg/file-type-angular-954x1024.png" width="36" height="36" alt="Angular" />
-  </a>
-  <a>
-    <img src="https://i.ibb.co/QPRW2VT/pngaaa-com-4144180.png" width="36" height="36" alt="RxJs" />
-  </a>
-  
+  <h4>Repeat Everything</h4>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Views&color=2b3236&style=flat" alt="mrbartosz" /> </p>
