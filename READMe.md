@@ -46,4 +46,4 @@
 <p align="left">
   <h4>Repeat Everything</h4>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Views&color=2b3236&style=flat" alt="mrbartosz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Views&color=2b3236&style=flat" /> </p>
