@@ -32,7 +32,16 @@
 </p>
 
 ### 📖 Currently Learning:
-
+<p align="left">
+  <p align="left">
+  <a>
+    <img src="https://i.ibb.co/TLp4tVg/file-type-angular-954x1024.png" width="36" height="36" alt="Angular" />
+  </a>
+  <a>
+    <img src="https://i.ibb.co/QPRW2VT/pngaaa-com-4144180.png" width="36" height="36" alt="RxJs" />
+  </a>
+  </p>
+</p>
 Just Started With:
 
 <p align="left">
