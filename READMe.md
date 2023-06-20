@@ -33,17 +33,27 @@
 
 ### 📖 Currently Learning:
 <p align="left">
+  <p align="left">
   <a>
     <img src="https://i.ibb.co/TLp4tVg/file-type-angular-954x1024.png" width="36" height="36" alt="Angular" />
   </a>
   <a>
     <img src="https://i.ibb.co/QPRW2VT/pngaaa-com-4144180.png" width="36" height="36" alt="RxJs" />
   </a>
+  </p>
 </p>
 
 ### 📝 Future Actions:
-
 <p align="left">
-  <h4>Repeat Everything</h4>
+  <p align="left">
+  <a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+  </a>
+  <a>
+    <img src="https://i.ibb.co/DKTRXbg/image.png" height="36" alt="React Native" />
+  </a>
+  </p>
 </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Views&color=2b3236&style=flat" /> </p>
+
