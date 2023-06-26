@@ -33,8 +33,6 @@
 
 ### 📖 Currently Learning:
 
-Just Started With:
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="50" height="50">
   <img src="https://i.ibb.co/DKTRXbg/image.png" alt="React Native" height="50">
