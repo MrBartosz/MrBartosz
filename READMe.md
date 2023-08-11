@@ -3,7 +3,7 @@
 
 
 * 🌐 Checkout my [Website](https://bartoszmaksimowski.netlify.app/)
-* 🔭 Here you can find my [CV](https://drive.google.com/file/d/1zJWv8g5ZhpFjbFAnAZ6s3bx4d_kYKd14/view)
+* 🔭 Here you can find my [CV](https://drive.google.com/file/d/1Vb3V7LPVJb_dlushE5j3ORfUx-WekRKF/view)
 * ✉️ You can contact me at [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
 
 
