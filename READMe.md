@@ -18,7 +18,13 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
    <a>
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/redux-icon.svg" width="36" height="36" alt="Redux" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqysvpiz6V55kTfFdR1j2JoFORS0wz2Ai4v0M5TYufEA&s" width="36" height="36" alt="Redux" />
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="36" height="36">
+  </a>
+  <a>
+    <img src="https://i.ibb.co/DKTRXbg/image.png" alt="React Native" height="36">
   </a>
 </p>
 <p align="left">
@@ -30,16 +36,7 @@
     <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" width="36" height="36" alt="GitHub" />
   </a>
 </p>
-
-### 📖 Currently Learning:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="50" height="50">
-  <img src="https://i.ibb.co/DKTRXbg/image.png" alt="React Native" height="50">
-</p>
-
-### 📝 Future Actions:
-<h4>REPEAT EVERYTHING</h4>
+  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Views&color=2b3236&style=flat" /> </p>
 
