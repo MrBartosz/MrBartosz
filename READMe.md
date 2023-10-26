@@ -27,6 +27,10 @@
   <a>
     <img src="https://i.ibb.co/DKTRXbg/image.png" alt="React Native" height="36">
   </a>
+  <a>
+    <img src="https://play-lh.googleusercontent.com/qE5usAL3g-iQtY20QtD3zQpOunMZxWciox78iwKSDwKi_6dX6fUK6iU1--xeaUwuhw" alt="React Native Paper" height="36">
+  </a>
+  
 </p>
 <p align="left">
    <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer">
