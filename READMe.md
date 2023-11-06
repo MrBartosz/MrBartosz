@@ -8,7 +8,7 @@
 
 **Since July, I've been working on the company's GitHub. Currently, after hours, I'm developing my Personal App - it's down below.**
 
-**<p align='center'><a href="https://github.com/MrBartosz/PersonalApp" target="_blank" rel="noreferrer">PERSONAL APP</a></p>**
+**<p align='center'><a href="https://github.com/MrBartosz/PersonalApp" target="_blank" rel="noopener noreferrer">PERSONAL APP</a></p>**
 
 ### 💻 Languages and Tools:
 
