@@ -2,13 +2,12 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/92/01/f3/9201f396f371f89a5b5c1c882b48c211.gif">
 
 
-* 🌐 Checkout my [Website](https://bartoszmaksimowski.netlify.app/)
-* 🔭 Here you can find my [CV](https://drive.google.com/file/d/1bVDcUN33yl69DXgfP1UFxsOOuAFAnDMz/view)
+**Since July, I've been working on the company's GitHub. Currently, after hours, I'm developing my Personal App - it's down below.**
+* 📱 [App](https://github.com/MrBartosz/PersonalApp) (In Progress)
+* 🌐 [Website](https://bartoszmaksimowski.netlify.app/) 
+* 🔭 Here you can find my [CV](https://drive.google.com/file/d/1lBGQuEgAxlZTkj-Xb6oZbEd0Rb77x3C9/view)
 * ✉️ You can contact me at [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
 
-**Since July, I've been working on the company's GitHub. Currently, after hours, I'm developing my Personal App - it's down below.**
-
-**<p align='center'><a href="https://github.com/MrBartosz/PersonalApp" target="_blank" rel="noopener noreferrer">PERSONAL APP</a></p>**
 
 ### 💻 Languages and Tools:
 
