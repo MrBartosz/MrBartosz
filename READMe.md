@@ -1,5 +1,5 @@
 <h1 align="center">Hi ! I'm Bartek <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='36' alt="GIF" /></h1> 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/3o7qE4yAEFBsdte2YM/giphy.gif?cid=ecf05e47juxfigichy2a63l2xir53nnowf24kzlkj1aqfbfs&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif?cid=ecf05e47no0zjeu4tdr8jvncmjynh5n4s0ht4bewn9s6wgcu&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 **Since July, I've been working on the company's GitHub. Currently, after hours, I'm developing my Personal App - it's down below.**
