@@ -1,5 +1,5 @@
 <h1 align="center">Hi ! I'm Bartek <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='36' alt="GIF" /></h1> 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/35/39/75/353975e3da1646043d3462bab2fd8b6d.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/92/01/f3/9201f396f371f89a5b5c1c882b48c211.gif">
 
 
 * 🌐 Checkout my [Website](https://bartoszmaksimowski.netlify.app/)
