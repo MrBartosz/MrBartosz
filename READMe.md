@@ -2,7 +2,7 @@
 
 
 **Since July, I've been working on the company's GitHub. Currently, after hours, I'm developing my Personal App - it's down below.**
-* 📱 [App](https://github.com/MrBartosz/PersonalApp) (In Progress)
+* 📱 [App](https://github.com/MrBartosz/PersonalApp) 
 * 🌐 [Website](https://github.com/MrBartosz/PersonalWebsite) 
 * 🔭 Here you can find my [CV](https://drive.google.com/file/d/1Lr5p8BvlcrxFBxRgjX7TEAPNYz8aGLA5/view)
 * ✉️ You can contact me at [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
