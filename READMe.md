@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3aXd4aG96dWFxemRzbXFqZ3d0NWx3NjMwbzJ4YXlzbW5hZzdmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BElb9DVpHezcZufOhl/giphy.gif">
 
 
-**Since July, I've been working on the company's GitHub. Currently, after hours, I'm developing my Personal App - it's down below.**
+**Currently, I'm working on my personal projects during my free hours – you can find them below.**
 * 📱 [App](https://github.com/MrBartosz/PersonalApp) 
 * 🌐 [Website](https://github.com/MrBartosz/PersonalWebsite) 
 * 🔭 Here you can find my [CV](https://drive.google.com/file/d/1Lr5p8BvlcrxFBxRgjX7TEAPNYz8aGLA5/view)
