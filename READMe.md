@@ -2,6 +2,7 @@
 
 
 **Currently, I'm working on my personal projects during my free hours – you can find them below.**
+* 🆕 [Budget Tracker](https://github.com/MrBartosz/personal-budget-tracker)
 * 📱 [App](https://github.com/MrBartosz/PersonalApp) 
 * 🌐 [Website](https://github.com/MrBartosz/PersonalWebsite) 
 * 🔭 Here you can find my [CV](https://drive.google.com/file/d/1Lr5p8BvlcrxFBxRgjX7TEAPNYz8aGLA5/view)
