@@ -6,7 +6,6 @@
 * 🛒 [E-commerce Platform](https://github.com/MrBartosz/e-commerce-platform-1703153104) (In progress)
 * 📱 [App](https://github.com/MrBartosz/PersonalApp) 
 * 🌐 [Website](https://github.com/MrBartosz/PersonalWebsite) 
-* 🔭 Here you can find my [CV](https://drive.google.com/file/d/1Lr5p8BvlcrxFBxRgjX7TEAPNYz8aGLA5/view)
 * ✉️ You can contact me at [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
 
 
