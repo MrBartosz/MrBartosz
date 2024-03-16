@@ -3,7 +3,7 @@
 
 **Currently, I'm working on my personal projects during my free hours – you can find them below.**
 * 🆕 [Budget Tracker](https://github.com/MrBartosz/personal-budget-tracker)
-* 🛒 [E-commerce Platform](https://github.com/MrBartosz/e-commerce-platform-1703153104) (In progress)
+* 🛒 [E-commerce Platform](https://github.com/MrBartosz/e-commerce-platform-1703153104) (In progress
 * 📱 [App](https://github.com/MrBartosz/PersonalApp) 
 * 🌐 [Website](https://github.com/MrBartosz/PersonalWebsite) 
 * ✉️ You can contact me at [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
