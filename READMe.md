@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3aXd4aG96dWFxemRzbXFqZ3d0NWx3NjMwbzJ4YXlzbW5hZzdmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BElb9DVpHezcZufOhl/giphy.gif">
 
-**Currently, I'm about to learn Go and Rust**
+**Currently, I'm about to learn Python**
 * 🛒 [E-commerce Platform](https://github.com/MrBartosz/e-commerce-platform-1703153104) 
 * 🆕 [Budget Tracker](https://github.com/MrBartosz/personal-budget-tracker)
 * 📱 [App](https://github.com/MrBartosz/PersonalApp) 
