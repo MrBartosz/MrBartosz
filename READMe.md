@@ -27,7 +27,7 @@
     <img src="https://i.ibb.co/DKTRXbg/image.png" alt="React Native" height="36">
   </a>
   <a>
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Tailwindcss" height="32">
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwindcss" height="26">
   </a>
   <a>
     <img src="https://play-lh.googleusercontent.com/qE5usAL3g-iQtY20QtD3zQpOunMZxWciox78iwKSDwKi_6dX6fUK6iU1--xeaUwuhw" alt="React Native Paper" height="36">
