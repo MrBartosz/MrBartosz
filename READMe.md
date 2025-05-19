@@ -1,5 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3aXd4aG96dWFxemRzbXFqZ3d0NWx3NjMwbzJ4YXlzbW5hZzdmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BElb9DVpHezcZufOhl/giphy.gif">
 
+#### These are the first four projects I have completed:
 * 🛒 [E-commerce Platform](https://github.com/MrBartosz/e-commerce-platform-1703153104) 
 * 🆕 [Budget Tracker](https://github.com/MrBartosz/personal-budget-tracker)
 * 📱 [App](https://github.com/MrBartosz/PersonalApp) 
