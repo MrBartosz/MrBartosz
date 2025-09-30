@@ -1,14 +1,44 @@
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3aXd4aG96dWFxemRzbXFqZ3d0NWx3NjMwbzJ4YXlzbW5hZzdmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BElb9DVpHezcZufOhl/giphy.gif">
+# 👋 Hi, I'm Bartosz Maksimowski
 
-#### These are the first four projects I have completed:
-* 🛒 [E-commerce Platform](https://github.com/MrBartosz/e-commerce-platform-1703153104) 
-* 🆕 [Budget Tracker](https://github.com/MrBartosz/personal-budget-tracker)
-* 📱 [App](https://github.com/MrBartosz/PersonalApp) 
-* 🌐 [Website](https://github.com/MrBartosz/PersonalWebsite) 
-* ✉️ You can contact me at [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
+I work as an **Automation & Maintenance Engineer**, focusing on production systems, mechanics, pneumatics, electrics and electronics.
+After hours I develop skills in **programming and AI**, creating small apps, dashboards and tools that connect IT with industrial practice.
 
+---
 
+## 🚀 Actual Project
 
+### 🛠 [Serwiso](https://serwiso.vercel.app/login) *(demo: login `admin`, password `admin`)*
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Views&color=2b3236&style=flat" /> </p>
+Maintenance & Service Management SaaS (work orders, preventive maintenance, spare parts).
+This is my **main side project in IT**, where I apply my industrial background to build practical software.
+Tech stack: **Next.js, React, TypeScript, Tailwind, PostgreSQL**
 
+---
+
+## 📂 Earlier Projects (learning phase)
+
+### 🛒 [E-commerce Platform](https://github.com/MrBartosz/e-commerce-platform-1703153104)
+
+Basic shop with cart, orders, and product management. *(first full-stack attempt)*
+
+### 💰 [Budget Tracker](https://github.com/MrBartosz/personal-budget-tracker)
+
+Simple expense tracker app. *(one of my first React projects)*
+
+### 📱 [Personal App](https://github.com/MrBartosz/PersonalApp)
+
+CRUD app with authentication. *(training project)*
+
+### 🌐 [Personal Website](https://github.com/MrBartosz/PersonalWebsite)
+
+My first personal site to showcase projects. *(entry-level front-end)*
+
+---
+
+## 📬 Contact
+
+✉️ Email: [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
+
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Profile%20views&color=2b3236&style=flat" /> </p>
