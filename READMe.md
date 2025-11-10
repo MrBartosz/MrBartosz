@@ -7,7 +7,7 @@ After hours I develop skills in **programming and AI**, creating small apps, das
 
 ## 🚀 Actual Project
 
-### 🛠 [Serwiso](https://serwiso.vercel.app/login) *(demo: login `admin`, password `admin`)*
+### 🛠 [Serwiso](https://serwiso.vercel.app/login) 
 
 Maintenance & Service Management SaaS (work orders, preventive maintenance, spare parts).
 This is my **main side project in IT**, where I apply my industrial background to build practical software.
