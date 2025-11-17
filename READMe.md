@@ -1,4 +1,4 @@
-# 👋 Hi, 
+# 👋 Hi
 
 I work as an **Automation & Maintenance Engineer**, focusing on production systems, mechanics, pneumatics, electrics and electronics.
 After hours I develop skills in **programming and AI**, creating small apps, dashboards and tools that connect IT with industrial practice.
