@@ -44,7 +44,6 @@ CRUD application with authentication and database integration.
 ## 📬 Contact & Socials
 
 ✉️ **Email:** [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
-🔗 **LinkedIn:** [Twoj-Link-Tuta-Jesli-Masz]
 
 ---
 
