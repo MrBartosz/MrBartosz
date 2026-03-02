@@ -1,59 +1,53 @@
-# 👋 Hi
+# 👋 Hi, I'm Bartosz
 
-I work as an **Automation & Maintenance Engineer**, focusing on production systems, mechanics, pneumatics, electrics and electronics.
-After hours I develop skills in **programming and AI**, creating small apps, dashboards and tools that connect IT with industrial practice.
+**Automation & Maintenance**
+
+I bridge the gap between the factory floor and digital ecosystems. With a professional background as a **Frontend Developer** and my current role as an **Automation Engineer at Kuchnia Vikinga (since 2024)**, I build software that solves real industrial pain points.
 
 ---
 
-## 🚀 Current Project: Serwiso (CMMS/EAM SaaS)
+## 🚀 Key Project: Serwiso (CMMS/EAM SaaS)
 
-**Serwiso** is a comprehensive Industrial Maintenance & Service Management platform designed to bridge the gap between complex industrial hardware and modern software solutions. 
+**Serwiso** is a modern Industrial Maintenance & Service Management platform built to replace outdated spreadsheets and clunky legacy software with a high-performance digital workflow.
 
-### 🏭 Real-World Validation
-The system is currently undergoing intensive in-situ testing and implementation at **Kuchnia Vikinga** (large-scale, 24/7 food production facility), managing:
-* **60+ Heavy-Duty Machines** in a high-intensity environment.
-* **Full-Cycle Maintenance:** From emergency work orders to automated preventive scheduling.
-* **Spare Parts Inventory:** Real-time stock tracking linked to machine health.
+### 🏭 Battlefield-Tested at Kuchnia Vikinga
+The system is currently implemented and refined in a high-intensity, 24/7 food production environment, managing:
+* **Asset Management:** Monitoring **60+ heavy-duty machines** and production lines.
+* **Full-Cycle Maintenance:** From emergency "stop-line" work orders to automated preventive scheduling.
+* **Inventory Intelligence:** Real-time spare parts tracking directly linked to machine health and maintenance tasks.
 
 ### 🧠 Core Innovations
-* **AI-Driven Shift Scheduler:** A custom-built solver (Constraint-based) that generates 24/7 work schedules for maintenance teams, balancing 176h quotas, legal rest periods, and leadership coverage.
-* **Industrial UX:** A "Mobile-First" interface designed for technicians on the factory floor, featuring hall mapping and rapid part searching.
+* **AI-Driven Shift Scheduler:** A custom constraint-based solver that automates 24/7 technician rotations, balancing 176h quotas, legal rest periods, and leadership coverage.
+* **Industrial UX:** A "mobile-first" interface designed for technicians with "dirty hands" on the factory floor, featuring rapid part searching and hall mapping.
 
 ### 🛠 Tech Stack
 * **Framework:** Next.js (App Router), React, TypeScript
-* **Styling:** Tailwind CSS (Dark Mode optimized)
 * **Database & ORM:** PostgreSQL (Neon), Prisma
-* **Infrastructure:** Railway (Backend), Vercel (Frontend)
-
----
-*Building practical software by applying deep industrial background to modern IT solutions.*
+* **Infrastructure:** Railway (Backend), Vercel (Frontend), Tailwind CSS
 
 ---
 
-## 📂 Earlier Projects (learning phase)
+
+## 📂 Evolution & Learning Path
 
 ### 🛒 [E-commerce Platform](https://github.com/MrBartosz/e-commerce-platform-1703153104)
-
-Basic shop with cart, orders, and product management. *(first full-stack attempt)*
+Full-stack shop implementation with cart logic and order management.
 
 ### 💰 [Budget Tracker](https://github.com/MrBartosz/personal-budget-tracker)
-
-Simple expense tracker app. *(one of my first React projects)*
+React-based expense management app focusing on state handling and UI.
 
 ### 📱 [Personal App](https://github.com/MrBartosz/PersonalApp)
-
-CRUD app with authentication. *(training project)*
-
-### 🌐 [Personal Website](https://github.com/MrBartosz/PersonalWebsite)
-
-My first personal site to showcase projects. *(entry-level front-end)*
+CRUD application with authentication and database integration.
 
 ---
 
-## 📬 Contact
+## 📬 Contact & Socials
 
-✉️ Email: [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
+✉️ **Email:** [maksimowski97@gmail.com](mailto:maksimowski97@gmail.com)
+🔗 **LinkedIn:** [Twoj-Link-Tuta-Jesli-Masz]
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Profile%20views&color=2b3236&style=flat" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=MrBartosz&label=Profile%20views&color=2b3236&style=flat" /> 
+</p>
