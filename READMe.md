@@ -2,7 +2,7 @@
 
 **Automation & Maintenance**
 
-I bridge the gap between the factory floor and digital ecosystems. With a professional background as a **Frontend Developer** and my current role as an **Automation Engineer at Kuchnia Vikinga (since 2024)**, I build software that solves real industrial pain points.
+I bridge the gap between the factory floor and digital ecosystems. With a background as a **Frontend Developer** and my current role as an **Automation Engineer at Kuchnia Vikinga (since 2024)**, I build software that solves real industrial pain points.
 
 ---
 
