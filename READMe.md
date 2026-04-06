@@ -6,7 +6,7 @@ I bridge the gap between the factory floor and digital ecosystems. With a backgr
 
 ---
 
-## 🚀 Key Project: Serwiso (CMMS/EAM SaaS)
+## 🚀 Key Project: [Serwiso (CMMS/EAM SaaS)](https://serwiso.vercel.app/login)
 
 **Serwiso** is a modern Industrial Maintenance & Service Management platform built to replace outdated spreadsheets and clunky legacy software with a high-performance digital workflow.
 
@@ -28,16 +28,6 @@ The system is currently implemented and refined in a high-intensity, 24/7 food p
 ---
 
 
-## 📂 Evolution & Learning Path
-
-### 🛒 [E-commerce Platform](https://github.com/MrBartosz/e-commerce-platform-1703153104)
-Full-stack shop implementation with cart logic and order management.
-
-### 💰 [Budget Tracker](https://github.com/MrBartosz/personal-budget-tracker)
-React-based expense management app focusing on state handling and UI.
-
-### 📱 [Personal App](https://github.com/MrBartosz/PersonalApp)
-CRUD application with authentication and database integration.
 
 ---
 
