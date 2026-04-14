@@ -38,7 +38,7 @@ System zarządzania utrzymaniem ruchu i serwisem maszyn. Wdrożony w środowisku
 | Auth | JWT + 2FA/TOTP + Magic Link + PIN/Kiosk + SSO (Azure/Google/Okta) |
 | Infra | Vercel (frontend), Railway/Render (backend Docker), OpenTelemetry, Sentry |
 | CI | GitHub Actions, Husky, Turborepo, Playwright E2E, Stryker mutation testing |
-| i18n | 4 języki (PL, EN, DE, UA) |
+| i18n | 4 języki (PL, EN, DE) |
 
 ---
 
