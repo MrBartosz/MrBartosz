@@ -1,6 +1,6 @@
 # Bartosz Maksimowski
 
-Frontend Developer → Automatyk w Kuchnia Vikinga.  
+Frontend Developer w DeveloArt → Automatyk w Kuchnia Vikinga.  
 Wykonuję obowiązki automatyka + tworzę software, który rozwiązuje realne problemy na hali produkcyjnej.
 
 ---
